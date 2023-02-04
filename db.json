@@ -1,9 +1,4 @@
-{
-  "nombres": [
-    {
-      "id": 1,
-      "nombre": "diana"
-    }
+
   {
 		"id": 100,
 		"nombre": "Josephine"
@@ -53,7 +48,6 @@
 		"nombre": "Deane"
 	},
   
-  ],
  
 }
 
